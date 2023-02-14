@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667031367 source:c:\users\dell\documents\coding\udemypractice\gg.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
